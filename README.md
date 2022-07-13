@@ -1,6 +1,6 @@
 # CG Sistema - Faturas.
 
-Sistema do fernando, em php no frameworking CodeIgnite.
+Sistema de faturamento, em php no framework CodeIgnite.
 - Docker compose.
 
 pacht: 1.0.0
